@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Document-Analysis/static/css/main.03a5ec2a.css",
-    "main.js": "/Document-Analysis/static/js/main.0c42f2f9.js",
+    "main.js": "/Document-Analysis/static/js/main.9a4c8251.js",
     "static/js/453.2b06451f.chunk.js": "/Document-Analysis/static/js/453.2b06451f.chunk.js",
     "static/media/concept-landing-page-transfer-concept.png": "/Document-Analysis/static/media/concept-landing-page-transfer-concept.6ac306003496a21179cc.png",
     "static/media/copywriting-social-media-post-content-marketing-internet-commercial-cartoon-character-writing-text-advertising-promotional-strategy.png": "/Document-Analysis/static/media/copywriting-social-media-post-content-marketing-internet-commercial-cartoon-character-writing-text-advertising-promotional-strategy.9b27fdb8d8a5778d58f3.png",
@@ -13,11 +13,11 @@
     "static/media/tableExtraction.png": "/Document-Analysis/static/media/tableExtraction.ce7d635eccac6d6b0c1f.png",
     "index.html": "/Document-Analysis/index.html",
     "main.03a5ec2a.css.map": "/Document-Analysis/static/css/main.03a5ec2a.css.map",
-    "main.0c42f2f9.js.map": "/Document-Analysis/static/js/main.0c42f2f9.js.map",
+    "main.9a4c8251.js.map": "/Document-Analysis/static/js/main.9a4c8251.js.map",
     "453.2b06451f.chunk.js.map": "/Document-Analysis/static/js/453.2b06451f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03a5ec2a.css",
-    "static/js/main.0c42f2f9.js"
+    "static/js/main.9a4c8251.js"
   ]
 }
