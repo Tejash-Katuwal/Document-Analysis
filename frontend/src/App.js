@@ -78,7 +78,7 @@ function App() {
           <div className='whole-body-inner'>
           {(!showResult&&!blankPageActivate&&!antiNav)&&<Navbar></Navbar>}
           <Routes>
-                <Route path='/' element={<Home/>}/>
+                <Route path='' element={<Home/>}/>
                 <Route path='/login' element={<Login/>}/>
                 <Route path='/register' element={<Register/>}/>
                 <Route path='/anti-nav/otp' element={<OTP />}/>
